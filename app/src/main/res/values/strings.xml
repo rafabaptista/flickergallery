@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlickerGallery</string>
+    <string name="photo_description">Photo</string>
+    <string name="back_button_description">Button back</string>
+
+    <string name="param_transition_fundraiser_image">photo</string>
+
+    <string name="message_error_loading_images">We\'re sorry, we could not load the photos. Please try again in a few moments.</string>
+    <string name="message_empty_images">No Photos to show.</string>
+</resources>
